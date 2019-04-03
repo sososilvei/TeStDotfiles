@@ -92,3 +92,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = sososilvei@hotmail.com
+	name = Sofia Silveira
